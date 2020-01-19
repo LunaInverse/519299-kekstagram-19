@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Евгения Астахова](https://up.htmlacademy.ru/javascript/19/user/519299).
-* Наставник: `Неизвестно`.
+* Наставник: [Илья Соколов](https://htmlacademy.ru/profile/id53279).
 
 ---
 
